@@ -1,0 +1,8 @@
+{
+  "name": "SPORTCOM Manufacturing - Precision Sports Engineering & OEM/ODM",
+  "description": "B2B carbon composite padel racket, pickleball paddle, and sports gear OEM/ODM manufacturing facility in Sialkot, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
